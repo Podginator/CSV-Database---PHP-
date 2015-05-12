@@ -1,0 +1,7 @@
+courseID,name,credit,group,teacherid,startdate,enddate
+1,Programming For The Web,10,A,1,20-4-2012,20-5-2012
+2,Aritificial Intelligence,10,A,2,20-12-2014,20-5-2015
+3,Mobile Media Design,5,B,3,20-1-2014,20-5-2015
+1,Programming For The Web,10,B,3,20-12-2012,20-5-2014
+4,Other Course,5,A,3,20-4-2014,20-5-2015
+5,New Coursd,5,A,3,20-4-2014,20-5-2016

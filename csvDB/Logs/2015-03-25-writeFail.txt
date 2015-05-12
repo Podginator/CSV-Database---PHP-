@@ -1,0 +1,6 @@
+12:11:09: Failure to Add Record: 0: 1,2,A,A
+12:11:09: Failure to Add Record: 1: 2,3,B,C
+12:11:09: Failure to Add Record: 2: 4,1,A,D
+13:43:50: Failure to Add Record: 0: 1,2,A,A
+13:43:50: Failure to Add Record: 1: 2,3,B,C
+13:43:50: Failure to Add Record: 2: 4,1,A,D
